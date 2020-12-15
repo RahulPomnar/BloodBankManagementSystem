@@ -1,0 +1,4 @@
+1)) create table donor(donorid int(10)primary key,name varchar(255), fathername varchar(255),mothername varchar(255),dob varchar(255),mobileno varchar(10),gender varchar(10),email varchar(20),bloodgroup varchar(10),city varchar(100),address varchar(500) );
+
+
+2)) desc donor;
